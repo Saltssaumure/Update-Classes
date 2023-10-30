@@ -1,0 +1,20 @@
+Registered games tab, cannot check for new class yet due to crashing element inspector
+.overlayToggleIconOn-21NN2N
+
+Probably doesn't exist anymore
+Server boosting modal
+.perksModal-CLcR1c 
+.barBackground-unEPDT
+.barSecondary-VouwoY
+.tierMarkerBackground-G8FoN4
+.tierMarkerInProgress-2Tdxjz
+.tierMarkerAccomplished-1SkbEJ
+.tierMarkerLabelText-1wk8KK
+.tierWrapper-CsnudO
+.tierHeaderLocked-3ItHYn
+.tierLock-1uBqZ0
+.tierBody-3ju-rc
+.perk-19D_HN
+
+Unsure
+container-3ssFyj

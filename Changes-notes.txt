@@ -15,6 +15,5 @@ Server boosting modal
 .tierLock-1uBqZ0
 .tierBody-3ju-rc
 .perk-19D_HN
-
-Unsure
-container-3ssFyj
+Server sidebar, channels more specifically
+.mainContent-20q_Hp

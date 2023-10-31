@@ -71,3 +71,11 @@ buttonsCell-gSFzSA
 footer-j5ehCa
 ## Server boost settings
 .circle-1BhSZ2
+## App directory
+directoryModal-YJsOMv
+
+# Unknown
+## Command suggestions bar in chat
+selected-3H3-RC
+## now playing game and time text
+.protip-2urNh2
